@@ -1,6 +1,6 @@
 ## Hi, I'm Wei Cheng Chao
 
-I'm an M.S. Computer Science student at Brigham Young University (graduating April 2027). I like finding the real cause of a problem, then fixing it carefully so the people who depend on the system aren't hurt.
+I'm an M.S. Computational Science student at Brigham Young University (graduating April 2027). I like finding the real cause of a problem, then fixing it carefully so the people who depend on the system aren't hurt.
 
 **Right now:** Full Stack Engineer Intern at Pattern, working on a TypeScript/PostgreSQL API, multi-tenant access control, and LLM agent tools over MCP.
 
@@ -18,6 +18,6 @@ I'm an M.S. Computer Science student at Brigham Young University (graduating Apr
 
 ### Tools I use
 
-Python · TypeScript · SQL · C++ · Java · PostgreSQL · AWS · Docker · Terraform · PyTorch
+Python · TypeScript · SQL · PostgreSQL · AWS · Docker · Terraform · PyTorch
 
 [Portfolio](https://ssc2026.me/wei_portfolio/) · [Stories](https://ssc2026.me/wei_portfolio/stories.html) · [LinkedIn](https://linkedin.com/in/wei-cheng-chao)
