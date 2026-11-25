@@ -4,6 +4,8 @@ I'm an M.S. Computer Science student at Brigham Young University (graduating Apr
 
 **Right now:** Full Stack Engineer Intern at Pattern, working on a TypeScript/PostgreSQL API, multi-tenant access control, and LLM agent tools over MCP.
 
+**Portfolio:** [ssc2026.me/wei_portfolio →](https://ssc2026.me/wei_portfolio/), my work, projects and research on one page.
+
 **Stories from production:** [How I work through hard problems →](https://ssc2026.me), the real bugs and fixes behind my resume, including the times I got it wrong.
 
 **Research:** how large language models behave across cultures, in BYU's Social Technology & Privacy Lab. Co-author of a peer-reviewed review in *JAMIA Open* (2025).
@@ -18,4 +20,4 @@ I'm an M.S. Computer Science student at Brigham Young University (graduating Apr
 
 Python · TypeScript · SQL · C++ · Java · PostgreSQL · AWS · Docker · Terraform · PyTorch
 
-[Website](https://ssc2026.me) · [LinkedIn](https://linkedin.com/in/wei-cheng-chao)
+[Portfolio](https://ssc2026.me/wei_portfolio/) · [Website](https://ssc2026.me) · [LinkedIn](https://linkedin.com/in/wei-cheng-chao)
